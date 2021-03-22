@@ -22,6 +22,7 @@ The analysis is based on the following points among the different city types:
 ### The percentage of total rides by city type
 
 ![](analysis/Fig6_percentage_rides_by_city.PNG)
+
 </p>
 More than 2/3 of the total rides in 2019 were realized in urban cities. Suburban areas count for over 26% of the total rides and rural cities have the smallest proportion with only for 5.3%.<br/><br/>
 
