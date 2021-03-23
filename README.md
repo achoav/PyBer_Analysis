@@ -17,11 +17,13 @@ The analysis is based on the following points among the different city types:
 
 ### Pyber summary DataFrame
 
-![](analysis/pyber_df_styled.PNG)
+![pyber_df_styled](https://user-images.githubusercontent.com/73545138/112090368-cce02280-8b69-11eb-9908-2b5d8f63c86a.png)
+
+![Fig1_pyber_ride_sharing_data](https://user-images.githubusercontent.com/73545138/112090315-b4700800-8b69-11eb-9f6e-c87376602425.png)
 
 ### The percentage of total rides by city type
 
-![](analysis/Fig6_percentage_rides_by_city.PNG)
+![Fig7_percentage_rides_by_city](https://user-images.githubusercontent.com/73545138/112090361-c6ea4180-8b69-11eb-992b-3aa2dbbbfee3.png)
 
 </p>
 More than 2/3 of the total rides in 2019 were realized in urban cities. Suburban areas count for over 26% of the total rides and rural cities have the smallest proportion with only for 5.3%.<br/><br/>
@@ -36,14 +38,14 @@ We notice the very small proportion of drivers in rural areas.<br/><br/>
 
 ### The percentage of total fares by city type
 
-![] (analysis/Fig5_percentage_total_fares_by_city_type.PNG)
+![Fig5_percentage_total_fares_by_city_type](https://user-images.githubusercontent.com/73545138/112090343-be920680-8b69-11eb-894a-c4b075315d25.png)
 </p>
 Here again we notice the influence of urban areas in the company's business model. Close to 63% of the 2019 total fares was realized in urban cities. Surbuban activity counted for about 31% and the smallest proportion was in rural neighborhoods.<br/><br/>
 
 ### The average fare per ride and driver by city type
 The following bubble chart shows the relationship between the average fare price and the number of rides and drivers categorized by the different city types.
 
-![](analysis/Fig1_pyber_ride_sharing_data.PNG)
+![Fig8_PyBer_fare_summary](https://user-images.githubusercontent.com/73545138/112090362-c9e53200-8b69-11eb-956a-89100f8de352.png)
 </p>
 We notice that the average fare tends to decrease as the total number of rides per city increases. This is a negative relationship.<br/>
 As per the driver count per city, it appears that the bubbles get larger when the average fare decreases and/or when the total number of rides increases.<br/>
