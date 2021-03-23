@@ -38,7 +38,7 @@ We notice the very small proportion of drivers in rural areas.<br/><br/>
 
 ### The percentage of total fares by city type
 
-
+![Fig5_percentage_total_fares_by_city_type](https://user-images.githubusercontent.com/73545138/112090343-be920680-8b69-11eb-894a-c4b075315d25.png)
 
 </p>
 Here again we notice the influence of urban areas in the company's business model. Close to 63% of the 2019 total fares was realized in urban cities. Surbuban activity counted for about 31% and the smallest proportion was in rural neighborhoods.<br/><br/>
