@@ -22,7 +22,7 @@ The analysis is based on the following points among the different city types:
 ![Fig1_pyber_ride_sharing_data](https://user-images.githubusercontent.com/73545138/112090315-b4700800-8b69-11eb-9f6e-c87376602425.png)
 
 ### The percentage of total rides by city type
-<p align="center">
+
 ![Fig6_percentage_rides_by_city_type](https://user-images.githubusercontent.com/73545138/112091073-12e9b600-8b6b-11eb-8c48-566ac9306eac.png)
 
 </p>
@@ -30,7 +30,6 @@ More than 2/3 of the total rides in 2019 were realized in urban cities. Suburban
 
 ### The percentage of total drivers by city type
 
-<p align="center">
 ![Fig7_percentage_drivers_by_city](https://user-images.githubusercontent.com/73545138/112091075-14b37980-8b6b-11eb-8bc0-5dfa5860295f.png)
 </p>
 Urban cities drivers were by far in majority with 80.9% of the company's drivers force in 2019. Surbuban and rural drivers were respectively 26.3% and 5.3% of the total drivers in 2019.<br/><br/>
